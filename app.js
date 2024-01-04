@@ -12,7 +12,7 @@
 // const container = document.getElementById('react-container');
 // ReactDOM.render(React.createElement(Container),container);
 
-class ReactContainer extends React.Componnpent{
+class ReactContainer extends React.Component{
     // constructor - to initialize the state 
   
     // render method to render the react dom 
